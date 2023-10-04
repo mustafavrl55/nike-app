@@ -23,7 +23,10 @@ const Section5 = () => {
                 </div>
                 <div className='flex flex-col justify-center items-center'>
                     <img className='w-[120px] h-[120px] ' src="https://nike-web-x.vercel.app/assets/customer2-e014463b.svg" alt="" />
-                    <p className='text-center mt-10 text-xl text-[#6D6D6D] '>The product not only met but exceeded <br /> my expectations. I'll definitely be a  <br />returning customer!
+                    <p className='text-center mt-10 text-xl text-[#6D6D6D] '>
+                        The product not only met but exceeded <br /> 
+                        my expectations.I ll definitely be a  <br />
+                        returning customer!
                     </p>
                     <div className='flex items-center mt-4 gap-4'>
                         <img src="https://nike-web-x.vercel.app/assets/star-afb6cd21.svg" alt="" />
